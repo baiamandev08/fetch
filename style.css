@@ -1,0 +1,23 @@
+.container {
+    margin: 0 auto;
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#random_Btn {
+    padding: 20px 15px;
+    color: royalblue;
+    font-weight: 200;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+#random_Img {
+    width: 250px;
+    height: 350px;
+    border-radius: 20px;
+    border: solid 1px black;
+    border-color: royalblue;
+}
